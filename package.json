@@ -55,10 +55,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Taha-esselmouni/ElectronjsCPU.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/Taha-esselmouni/ElectronjsCPU/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Taha-esselmouni/ElectronjsCPU#readme"
+  "homepage": ""
 }
